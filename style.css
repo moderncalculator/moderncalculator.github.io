@@ -29,14 +29,10 @@ body
     font-size: 18px;
     border-radius: 25px;
     border: 2px solid #73AD21;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-top: 60px;
-    
 }
 .calculator span{
     display: grid;
-    width: 50px;
+    width: 60px;
     height: 60px;
     color: black;
     background: white;
@@ -46,7 +42,6 @@ body
     border-color: white;
     font-size: 150%;
     border-spacing: 10px;
-    margin-left: 10px;
 }
 .calculator .equal{
     background: #456fff;
