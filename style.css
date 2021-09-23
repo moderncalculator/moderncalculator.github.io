@@ -14,6 +14,7 @@ body
     background:#3586ff;
 }
 .wave{
+    justify-content: bottom;
     position: absolute;
     bottom: 0;
     left: 0;
