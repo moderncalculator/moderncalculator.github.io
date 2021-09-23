@@ -17,6 +17,7 @@ body
 {
     position: relative;
     display: grid;
+    margin-left:30px;
 }
 .calculator .value
 {
