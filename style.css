@@ -15,7 +15,6 @@ body
 {
     position: relative;
     display: grid;
-    margin-left: 20;
 }
 .calculator .value
 {
@@ -41,7 +40,7 @@ body
     border-radius: 50%;
     border-color: white;
     font-size: 150%;
-    border-spacing: 10px;
+    border-spacing: 5px;
 }
 .calculator .equal{
     background: #456fff;
