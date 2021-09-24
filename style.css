@@ -15,9 +15,9 @@ body
 }
 .calculator
 {
-    margin-bottom: 50px
     position: relative;
     display: grid;
+    margin-left: 100px;
 }
 .calculator .value
 {
