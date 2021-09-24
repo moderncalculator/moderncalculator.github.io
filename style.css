@@ -31,7 +31,7 @@ body
 }
 .calculator span{
     display: grid;
-    width: 60px;
+    width: 40px;
     height: 60px;
     color: black;
     background: white;
@@ -40,7 +40,7 @@ body
     border-radius: 50%;
     border-color: white;
     font-size: 150%;
-    border-spacing: 5px;
+    border-spacing: 10px;
 }
 .calculator .equal{
     background: #456fff;
