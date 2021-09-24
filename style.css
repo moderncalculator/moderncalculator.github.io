@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 *
 {
@@ -53,7 +52,7 @@ body
     font-size: 300%;
 }
 .calculator span:active{
-    background: #595d6b;
+    background: #3586ff;
     color: white;
 }
 .calculator .clear{
