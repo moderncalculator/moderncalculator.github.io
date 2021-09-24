@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 *
 {
+    justify-content: center;
+    align-items: center;
     margin: 0;
     padding: 0;
     font-family: "Noto Sans JP";
