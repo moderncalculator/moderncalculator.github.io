@@ -18,7 +18,7 @@ body
 #head {
 position: relative;
 bottom:225px;
-right:50px;
+left:100px;
 }
 .calculator
 {
