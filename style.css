@@ -40,7 +40,7 @@ left:125px;
     margin-top: 90px;
     background:#eaeef0;
     border: 6px solid #eaeef0;
-    box-shadow: -8px -8px 15px rgba(255,255,255,1), 8px 8px 25px rgba(0,0,0,0.15);
+    box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
 .calculator span{
     display: grid;
