@@ -71,6 +71,7 @@ left:125px;
 .calculator .clear{
     background-color: red;
     font-size: 210%;
+    margin-bottom: 2px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
 .calculator .clear:active{
