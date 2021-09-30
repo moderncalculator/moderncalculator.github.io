@@ -24,6 +24,7 @@ left:125px;
 {
     position: relative;
     display: grid;
+    right: 50px;
 }
 .calculator .value
 {
