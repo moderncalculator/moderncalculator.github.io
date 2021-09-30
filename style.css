@@ -41,7 +41,7 @@ left:125px;
 box-shadow: -4px -4px 10px rgba(255,255,255,1),
 inset 4px 4px 10px rgba(0,0,0,0.05),
 inset -4px -4px 10px rgba(255,255,255,1),
-4px 4px 10px rgba(0,0,0,0.05)
+4px 4px 10px rgba(0,0,0,0.05);
 }
 .calculator span{
     display: grid;
