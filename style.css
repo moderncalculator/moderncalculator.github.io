@@ -63,7 +63,6 @@ left:125px;
     padding-bottom: 5px;
     font-size: 300%;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
-
 }
 .calculator span:active{
     background: #3586ff;
@@ -77,7 +76,6 @@ left:125px;
 }
 .calculator .clear:active{
     background-color: red;
-    box-shadow: red;
 }
 .calculator .nums{
     color:#456fff ;
@@ -85,13 +83,7 @@ left:125px;
     margin-bottom: 5px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
-.calculator .nums:active {
-    box-shadow: blue;
-}
 .num{
     margin-bottom: 5px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
-}
-.num:active {
-    box-shadow: blue;
 }
