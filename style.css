@@ -41,9 +41,6 @@ left:130px;
     background:#eaeef0;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
-.calculator .value:active{
-    box-shadow: green 0px 5px 15px;
-}
 .calculator span{
     display: grid;
     width: 60px;
