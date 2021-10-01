@@ -39,8 +39,10 @@ left:130px;
     margin-bottom: 5px;
     margin-top: 90px;
     background:#eaeef0;
-    border: 6px solid #eaeef0;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
+}
+.calculator .value:active{
+border: 6px solid #eaeef0;
 }
 .calculator span{
     display: grid;
