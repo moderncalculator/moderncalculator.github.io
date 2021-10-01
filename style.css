@@ -42,6 +42,23 @@ left:130px;
     border: 6px solid #eaeef0;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
+.calculator .value:active{
+border-color: conic-gradient(
+
+#fd004c,
+
+#fe9000,
+
+#fff020,
+
+#3edf4b,
+
+#3363ff,
+
+#b102b7,
+
+#fd004c);
+}
 .calculator span{
     display: grid;
     width: 60px;
@@ -67,6 +84,21 @@ left:130px;
 .calculator span:active{
     background: #3586ff;
     color: white;
+border-color: conic-gradient(
+
+#fd004c,
+
+#fe9000,
+
+#fff020,
+
+#3edf4b,
+
+#3363ff,
+
+#b102b7,
+
+#fd004c);
 }
 .calculator .clear{
     background-color: red;
