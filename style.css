@@ -39,9 +39,9 @@ left:130px;
     margin-bottom: 5px;
     margin-top: 90px;
     background:#eaeef0;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
 .calculator span{
@@ -57,9 +57,9 @@ left:130px;
     font-size: 150%;
     border-spacing: 10px;
     margin-right: 5px;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
 .calculator .equal{
@@ -67,9 +67,9 @@ left:130px;
     place-content: center;
     padding-bottom: 5px;
     font-size: 300%;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
 .calculator span:active{
@@ -80,9 +80,9 @@ left:130px;
     background-color: red;
     font-size: 210%;
     margin-bottom: 3px;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
 .calculator .clear:active{
@@ -92,15 +92,15 @@ left:130px;
     color:#456fff ;
     font-size: 200%;
     margin-bottom: 5px;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
 .num{
     margin-bottom: 5px;
-    box-shadow: -4px -4px 10px rgba(255,255,255,1),
-    inset 4px 4px 10px rgba(0,0,0,0.05),
-    inset -4px -4px 10px rgba(255,255,255,1)
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.05),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    4px 4px 10px rgba(0,0,0,0.05);
     /*box-shadow: 5px 5px 5px rgba(0,0,0,0.15);*/
 }
