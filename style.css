@@ -55,14 +55,14 @@ left:130px;
     border-spacing: 10px;
     margin-right: 5px;
     cursor: pointer;
-    drop-shadow: -10px -10px 30px 0 #FFFFFF, 10px 10px 30px 0 #AEAECO 40%;
-    inner-shadow: -10px -10px 10px 0 #AEAECO 25% 10px 10px 10px 0 #FFFFFF;
 }
 .calculator .equal{
     background: #456fff;
     place-content: center;
     padding-bottom: 5px;
     font-size: 300%;
+    drop-shadow: -10px -10px 30px 0 #FFFFFF, 10px 10px 30px 0 #AEAECO 40%;
+    inner-shadow: -10px -10px 10px 0 #AEAECO 25% 10px 10px 10px 0 #FFFFFF;
     /*box-shadow: 8px 8px 25px rgba(0,0,0,0.15);*/
 }
 .calculator span:active{
@@ -82,9 +82,13 @@ left:130px;
     color:#456fff ;
     font-size: 200%;
     margin-bottom: 5px;
+    drop-shadow: -10px -10px 30px 0 #FFFFFF, 10px 10px 30px 0 #AEAECO 40%;
+    inner-shadow: -10px -10px 10px 0 #AEAECO 25% 10px 10px 10px 0 #FFFFFF;
     /*box-shadow: 8px 8px 25px rgba(0,0,0,0.15);*/
 }
 .num{
     margin-bottom: 5px;
+    drop-shadow: -10px -10px 30px 0 #FFFFFF, 10px 10px 30px 0 #AEAECO 40%;
+    inner-shadow: -10px -10px 10px 0 #AEAECO 25% 10px 10px 10px 0 #FFFFFF;
     /*box-shadow: 8px 8px 25px rgba(0,0,0,0.15);*/
 }
