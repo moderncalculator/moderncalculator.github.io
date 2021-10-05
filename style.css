@@ -56,7 +56,7 @@ left:130px;
     margin-right: 5px;
     cursor: pointer;
 }
-.span:focus{
+.span:active{
     outline:none;
 }
 .calculator .equal{
