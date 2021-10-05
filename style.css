@@ -55,6 +55,8 @@ left:130px;
     border-spacing: 10px;
     margin-right: 5px;
     cursor: pointer;
+}
+.span:focus{
     outline: 0 none;
 }
 .calculator .equal{
