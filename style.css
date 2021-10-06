@@ -58,6 +58,9 @@ left:130px;
 .span:active{
     outline:none;
 }
+.num0{
+    width: 120px;
+}
 .calculator .equal{
     width: 60px;
     background: #456fff;
