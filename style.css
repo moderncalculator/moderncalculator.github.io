@@ -71,6 +71,10 @@ left:130px;
     font-size: 300%;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
+.calculator .numdot{
+    position: relative;
+    left: 65px;
+}
 .calculator span:active{
     background: #3586ff;
     color: white;
