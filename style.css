@@ -42,6 +42,7 @@ left:130px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
 .calculator span{
+    width: 60px;
     height: 60px;
     display: grid;
     color: black;
@@ -58,12 +59,7 @@ left:130px;
 .span:active{
     outline:none;
 }
-.num0{
-    width: 120px;
-}
 .calculator .equal{
-    position: relative;
-    left: 65px;
     width: 60px;
     background: #456fff;
     place-content: center;
@@ -71,16 +67,11 @@ left:130px;
     font-size: 300%;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
-.calculator .numdot{
-    position: relative;
-    left: 65px;
-}
 .calculator span:active{
     background: #3586ff;
     color: white;
 }
 .calculator .clear{
-    width: 60px;
     background-color: red;
     font-size: 210%;
     margin-bottom: 3px;
@@ -90,14 +81,12 @@ left:130px;
     background-color: red;
 }
 .calculator .nums{
-    width: 60px;
     color:#456fff ;
     font-size: 200%;
     margin-bottom: 5px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
 .num{
-    width: 60px;
     margin-bottom: 5px;
     box-shadow: 8px 8px 25px rgba(0,0,0,0.15);
 }
