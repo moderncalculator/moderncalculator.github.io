@@ -63,7 +63,7 @@ left:130px;
 }
 .calculator .equal{
     position: relative;
-    right: 65px;
+    left: 65px;
     width: 60px;
     background: #456fff;
     place-content: center;
